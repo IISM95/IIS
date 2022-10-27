@@ -1,0 +1,165 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: auto 0;
+}
+
+.header {
+	background-image: url(image/1.png);
+	width: 1440px;
+	margin: auto;
+	color: white;
+	background-repeat: no-repeat;
+	background-size: cover;
+	max-height: 116px;
+	align-items: center;
+}
+
+.parent{
+	padding-top: 93px;
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.portfolio {
+	margin-left: 165px;
+	font-family: 'Libre Franklin';
+	font-style: normal;
+	font-size: 24px;
+	font-weight: 700;
+
+}
+
+.menu {
+	display: flex;
+	width: 500px;
+	justify-content: space-between;
+	margin-right: 180px;
+
+}
+
+.menu li {
+	list-style: none;
+	text-decoration: none;
+	font-family: 'Libre Franklin';
+	font-style: normal;
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 22px;
+}
+
+.menu li a {
+	text-decoration: none;
+	color: white;
+}
+
+.greetings {
+	margin: 152px 0 0 165px;
+	font-family: 'Libre Franklin';
+	font-style: normal;
+	font-size: 64px;
+	line-height: 78px;
+}
+.designer {
+	margin: 26px 0 0 165px;
+	font-family: 'Libre Franklin';
+	font-style: normal;
+	font-size: 24px;
+}
+.laters {
+	padding: 106px 0 240px 165px;
+	font-family: 'Libre Franklin';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 22px;
+	text-decoration-line: underline;
+}
+.parent1{
+	width: 1440px ;
+	margin: auto;
+}
+.parent2{
+	max-width: 1440px ;
+	margin: auto;
+	background-color: #FFFAF2;
+}
+.description {
+	padding: 93px 0 86px 165px;
+	font-family: 'Libre Franklin';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 24px;
+	line-height: 29px;
+}
+.aboutText{
+	max-width: 1107px;
+		text-align: justify;
+		margin: auto;
+		padding-bottom: 145px;
+		font-family: 'Libre Franklin';
+		font-style: normal;
+		font-weight: 400;
+		font-size: 18px;
+		line-height: 30px;
+	}
+	
+	.image{
+	padding: 0 0 145px 165px;
+	max-width: 704px;
+}
+.conteiner{
+	display: flex;
+}
+.imageText {
+	text-align: justify;
+	max-width: 704px;
+	margin-left: 35px;
+	font-family: 'Libre Franklin';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 30px;
+	padding-top: 30px;
+}
+.ux {
+	padding-left: 165px;
+	font-family: 'Libre Franklin';
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 25px;
+}
+.imageText1 {
+	font-family: 'Libre Franklin';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 30px;
+	width: 349px;
+	margin: 48px 0 404px 165px
+}
+.container1{
+	display: flex;
+}
+.image1{
+	display: flex;
+	margin-left: 125px;
+}
+.image1_section1{
+	width: 350px;
+	text-align: center;
+}
+.image1_section2{
+	width: 233px;
+	margin-left: 20px;
+}
+.img2{
+padding-top: 20px;
+}
+.img5{
+margin-top: 20px;
+}
